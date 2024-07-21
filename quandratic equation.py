@@ -2,9 +2,9 @@ print('Quandratic equation solver')
 print('---------------------------------------------')
 print('Give the three unknowns')
 
-a = int(input('Give a: '))
-b = int(input('Give b: '))
-c = int(input('Give c: '))
+a = float(input('Give a: '))
+b = float(input('Give b: '))
+c = float(input('Give c: '))
 
 discriminant = (b**2-4*a*c)
 
