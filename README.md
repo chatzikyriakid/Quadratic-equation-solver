@@ -7,3 +7,4 @@ There are three cases:
 
 - If Δ > 0 then the equation has two real solutions: x1, x2 = ${-b \pm \sqrt{Δ} \over 2a}$
 - If Δ = 0 then the equation has one real solution: x = $- b \over 2a$
+- If Δ < 0 then there are two imaginary solutions
