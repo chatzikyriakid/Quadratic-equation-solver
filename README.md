@@ -5,4 +5,4 @@ The script asks from the user to give three numbers. Then it computes the discri
 
 There are three cases:
 
-- If Δ > 0 then the equation has two real solutions: x1, x2 = $-b \pm \ sqrt{b^2 - 4ac} / 2*a$
+- If Δ > 0 then the equation has two real solutions: x1, x2 = $-b \pm \ sqrt{b^2 - 4ac} \over 2a$
