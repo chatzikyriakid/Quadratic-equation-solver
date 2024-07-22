@@ -18,5 +18,8 @@ elif discriminant == 0:
 else:
     x1 = (- b + discriminant ** 0.5)/2*a
     x2 = (- b - discriminant ** 0.5)/2*a
-    print('There are two real solutions x1: {:.3f} and x2: {:.3f}'.format(x1,x2))
+    print('There are two real solutions x1\n: {:.3f} and x2: {:.3f}'.format(x1,x2))
+
+print()
+input('Press enter to exit')
 
